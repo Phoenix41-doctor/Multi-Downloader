@@ -29,9 +29,9 @@ Cara Instalasi (di Termux):
    pkg update && pkg upgrade  
    pkg install git python ffmpeg -y  
 
-2. Clone repository (ganti dengan milikmu!)  
-   git clone https://github.com/Phoenix41-doctor/Pengunduh-Multiguna.git  
-   cd Pengunduh-Multiguna  
+2. Clone repository  
+   git clone https://github.com/Phoenix41-doctor/Multi-Downloader  
+   cd Multi-Downloader 
 
 3. Install dependensi Python  
    pip install -r requirements.txt  
