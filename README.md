@@ -1,5 +1,5 @@
 ===========================================  
-     Multi Downloader by Andry Siagian  
+     Multi Downloader by Valor Matrix
 ===========================================  
 
 Deskripsi:  
@@ -50,7 +50,7 @@ Catatan Tambahan:
 ===========================================  
 Kontak & Kredit:  
 ----------------  
-Developer: Andry Siagian  
+Developer: Valor Matrix
 GitHub: https://github.com/Phoenix41-doctor  
 
 Terima kasih telah menggunakan Multi Downloader!
